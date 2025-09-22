@@ -1,6 +1,6 @@
 ## Dish Delight: Your Food Delivery Desktop Web Application
 
-**Foody App is a food delivery-only frontend web application that users can easily experience every step of other food delivery apps provided; So, Get ready to tantalize your taste buds with Foody App, a React and Redux-powered food delivery app that delivers delicious experiences straight to your fingertips.**
+**Dish Delight is a food delivery-only frontend web application that users can easily experience every step of other food delivery apps provided; So, Get ready to tantalize your taste buds with Dish Delight, a React and Redux-powered food delivery app that delivers delicious experiences straight to your fingertips.**
 
 **Features:**
 
